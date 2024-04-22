@@ -1,0 +1,4 @@
+﻿  Tests.cpp
+C:\Users\DAV\source\repos\ResizingCircle\ResizingCircle\ResizingCircle.cpp(145,10): warning C4101: ClearBox: неиспользованная локальная переменная
+     Создается библиотека C:\Users\DAV\source\repos\ResizingCircle\Debug\Tests.lib и объект C:\Users\DAV\source\repos\ResizingCircle\Debug\Tests.exp
+  Tests.vcxproj -> C:\Users\DAV\source\repos\ResizingCircle\Debug\Tests.dll
