@@ -1,0 +1,3 @@
+﻿  ResizingCircle.cpp
+C:\Users\DAV\source\repos\ResizingCircle\ResizingCircle\ResizingCircle.cpp(145,10): warning C4101: ClearBox: неиспользованная локальная переменная
+  ResizingCircle.vcxproj -> C:\Users\DAV\source\repos\ResizingCircle\Debug\ResizingCircle.exe
